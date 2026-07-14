@@ -1,0 +1,16 @@
+{
+    "$schema": "https://raw.githubusercontent.com/is-a-dev/register/main/schema.json",
+    "owner": {
+        "username": "kenkensigma",
+        "email": "balidenpasarbali123@gmail.com"
+    },
+    "record": {
+        "CNAME": "cname.vercel-dns.com",
+        "TXT": [
+            {
+                "name": "_vercel",
+                "value": "vc-domain-verify=dks-studio.is-a.dev,67b6dfe39c152be80f6b"
+            }
+        ]
+    }
+}
